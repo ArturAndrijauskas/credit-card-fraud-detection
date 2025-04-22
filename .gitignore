@@ -17,3 +17,14 @@ __pycache__/
 *.csv
 *.data
 *.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log

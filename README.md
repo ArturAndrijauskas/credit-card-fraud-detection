@@ -1,3 +1,3 @@
 # CreditCardFraudDetection_Project
 
-Testing
+Project overview, setup, results
